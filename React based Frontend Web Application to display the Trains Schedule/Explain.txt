@@ -1,0 +1,4 @@
+train-schedule-front-end:
+
+I have created train ticket genrator and 
+train and seat selection in the project it is only front end
